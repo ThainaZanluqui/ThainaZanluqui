@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-🎓 I'm an Computer science student
-🔥 I’m currently learning all about ReactJS
+- 🎓 I'm an Computer science student
+- 🔥 I’m currently learning all about ReactJS
 
 <!--
 **ThainaZanluqui/ThainaZanluqui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
